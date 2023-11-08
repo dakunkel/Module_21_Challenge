@@ -24,4 +24,4 @@ The steps for this assignment are divided into the following subsections:
 ![alt="deployer"](Images/deployer.png)
 
 4. Deploy and Test the Crowdsale on a Local Blockchain
-![alt="test"](Videos/deploying_contract.mov)
+[Deploying The Contract Video](/Videos/deploying_contract.mov)
